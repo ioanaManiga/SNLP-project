@@ -1,0 +1,11 @@
+RESULTS FOR Music genre
+
+Decision tree - best accuracy: 1.0 for: criterion = gini, max_leaf_nodes = None
+Naive bayes - best accuracy: 0.99994 for: var_smoothing = 1e-12
+k-NN - best accuracy: 0.24496 for: n_neighbours = 7, weights = distance, p = 1
+Logistic regression - best accuracy: 0.2771 for: tol = 0.0001, C = 0.4
+Neural networks - best accuracy: 0.63748 for: activation = relu, hidden_layer_sizes = (100,)
+The configurations that obtained best accuracy are:
+-> Decision tree: criterion = gini, max_leaf_nodes = None
+
+

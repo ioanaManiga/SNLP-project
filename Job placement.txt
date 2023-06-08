@@ -1,0 +1,14 @@
+RESULTS FOR Job placement
+
+Decision tree - best accuracy: 1.0 for: criterion = gini, max_leaf_nodes = None
+Naive bayes - best accuracy: 1.0 for: var_smoothing = 1e-07
+k-NN - best accuracy: 0.9906976744186047 for: n_neighbours = 3, weights = distance, p = 1
+Logistic regression - best accuracy: 1.0 for: tol = 0.0001, C = 0.1
+Neural networks - best accuracy: 1.0 for: activation = identity, hidden_layer_sizes = (10,)
+The configurations that obtained best accuracy are:
+-> Decision tree: criterion = gini, max_leaf_nodes = None
+-> Naive bayes: var_smoothing = 1e-07
+-> Logistic regression: tol = 0.0001, C = 0.1
+-> Neural networks: activation = identity, hidden_layer_sizes = (10,)
+
+
